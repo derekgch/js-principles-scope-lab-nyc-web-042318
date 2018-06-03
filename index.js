@@ -17,5 +17,5 @@ bestCustomer = 'maybe bob';
 
 const leastFavoriteCustomer = 'some one'
 function changeLeastFavoriteCustomer() {
-
+leastFavoriteCustomer = 'other one'
 }
